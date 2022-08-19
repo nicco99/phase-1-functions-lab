@@ -49,13 +49,7 @@ To complete all of your work assignments, you'll need to write four functions:
   help return the correct value here. Try something like this:
 
 ```js
-function distanceFromHqInFeet(someValue) {
-  distanceFromHqInBlocks(someValue);
-  // call the distanceFromHqInBlocks function from inside the distanceFromHqInFeet function,
-  // passing the argument from distanceFromHqInFeet into distanceFromHqInBlocks
 
-  // the return value of distanceFromHqInBlocks can then be used to calculate feet
-}
 ```
 
 - `distanceTravelledInFeet`: Calculates the number of feet a passenger travels
